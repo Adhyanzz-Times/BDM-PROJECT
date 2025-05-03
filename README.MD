@@ -17,7 +17,7 @@
 | **Location**       | Gt Road , Azadpur , North Delhi - 110033    |
 | **Store Type**     | ⌚ Family-run B2C Accessory               |
 | **Owner**          | Mr. Sudhir Kumar                            |
-| **Time Period**    | 📅 July 1, 2024 – August 31, 2025          |
+| **Time Period**    | 📅 July 1, 2024 – August 31, 2024          |
 | **Team Member**    | 👤 Adhyan Mishra (`adhyan.busy@gmail.com`) |
 
 ---
