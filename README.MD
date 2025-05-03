@@ -94,7 +94,7 @@
 
 **Adhyan Mishra** 
 📧 `adhyan.busy@gmail.com`
-📧 `22f2000848@ds.study.iitm.ac.in`  
+📧 `23f2000260@ds.study.iitm.ac.in`  
 🎓 BDM Capstone Project – IIT Madras
 
 ---
