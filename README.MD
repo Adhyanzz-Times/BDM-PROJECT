@@ -14,7 +14,7 @@
 | 🧾 Detail          | 📍 Information                              |
 |-------------------|----------------------------------------------|
 | **Store Name**     | Sudhir Kumar Belts & Goggles                |
-| **Location**       | VP Block, Pitampura, Delhi                  |
+| **Location**       | Gt Road , Azadpur , North Delhi - 110033    |
 | **Store Type**     | ⌚ Family-run B2C Accessory               |
 | **Owner**          | Mr. Sudhir Kumar                            |
 | **Time Period**    | 📅 July 1, 2024 – August 31, 2025          |
