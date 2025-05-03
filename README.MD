@@ -18,7 +18,7 @@
 | **Store Type**     | ⌚ Family-run B2C Accessory               |
 | **Owner**          | Mr. Sudhir Kumar                            |
 | **Time Period**    | 📅 July 1, 2024 – August 31, 2024          |
-| **Team Member**    | 👤 Adhyan Mishra (`adhyan.busy@gmail.com`) |
+| **Author**         | 👤 Adhyan Mishra (`adhyan.busy@gmail.com`) |
 
 ---
 
