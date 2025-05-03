@@ -36,8 +36,8 @@
 
 - 📌 **Source**: Primary – Digitized Records & Interviews
 - 🧹 **Format**: Cleaned Excel Data  
-- 📈 [👉 View Dataset on Google Sheets](https://docs.google.com/spreadsheets/d/1e5kFzIu60j4j8g0QC2yFc9-g6sCk7Jfk/edit?gid=920694425)#gid=920694425)
-                                        (https://docs.google.com/spreadsheets/d/1QTI0toU0IxQNMunWhVs6W89aC-ZQWEnbNf-B7TliWk0/edit?gid=0)#gid=0)
+- 📈 [👉 View Dataset on Google Sheets](https://docs.google.com/spreadsheets/d/1e5kFzIu60j4j8g0QC2yFc9-g6sCk7Jfk/edit?gid=920694425)
+                                        (https://docs.google.com/spreadsheets/d/1QTI0toU0IxQNMunWhVs6W89aC-ZQWEnbNf-B7TliWk0/edit?gid=0)
 
 ---
 
